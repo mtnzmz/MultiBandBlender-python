@@ -1,5 +1,5 @@
 # MultiBandBlender-python
-This repository provides an [example usage](MultiBandBlending-python-example.ipynb) in Python for MultiBandBlender class of OpenCV which has a poor documentation by the date September 2021.
+This repository provides an [example usage](MultiBandBlending-python-example.ipynb) for MultiBandBlender class of OpenCV in Python which has a poor documentation by the date September 2021.
 
 Ran on Python 3.8.8 with OpenCV 4.5.3
 
